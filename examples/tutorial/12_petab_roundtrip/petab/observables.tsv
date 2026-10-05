@@ -1,4 +1,0 @@
-observableId	observableFormula	noiseFormula	noiseDistribution	noisePlaceholders
-obs_Obs_A	Obs_A	1	normal	
-obs_Obs_B	Obs_B	1	normal	
-obs_Obs_C	Obs_C	1	normal	

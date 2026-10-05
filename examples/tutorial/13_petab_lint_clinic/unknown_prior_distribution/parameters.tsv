@@ -1,2 +1,0 @@
-parameterId	estimate	lowerBound	upperBound	priorDistribution	priorParameters
-k	true	0.01	5	bogus_dist	0;1
